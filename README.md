@@ -3,7 +3,7 @@ C code for pellet burner controller
 http://lukacanji.blogspot.rs/2016/02/pellet-burner-contoller.html
 
 NOTE: all comments in code are on the Serbian.
-If you need hellp for understanding code please contact author: http://lukacanji.blogspot.rs/p/contact.html
+If you need help for understanding code please contact author: http://lukacanji.blogspot.rs/p/contact.html
 
 In file Schematic.pdf is electronic schematic of pellet burner controller.
 
@@ -15,4 +15,4 @@ GSM module information are in gsm_click_manual.pdf.
 
 C compiler is mikroC PRO for ARM http://www.mikroe.com/mikroc/arm/
 
-Software for create interface is Visual TFT http://www.mikroe.com/visualtft/
+Software to create interface is Visual TFT http://www.mikroe.com/visualtft/
